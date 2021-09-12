@@ -47,7 +47,7 @@ Simplified Database Web Administration. For MySQL, SQLite and PostgreSQL databas
 - change product name to kloxong
 - add obsolete for kloxomr 
 
-* Sun May 01 2017 Mustafa Ramadhan <mustafa@bigraf.com> - 3.7-1.mr
+* Mon May 01 2017 Mustafa Ramadhan <mustafa@bigraf.com> - 3.7-1.mr
 - update to 3.7
 
 * Sat Oct 25 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 3.6-1.mr
@@ -59,5 +59,5 @@ Simplified Database Web Administration. For MySQL, SQLite and PostgreSQL databas
 * Wed Apr 30 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 3.4-1.mr
 - update to 3.4
 
-* Sun Aug 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.3-1.mr
+* Sat Aug 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 3.3-1.mr
 - make rpm for Kloxo-MR
